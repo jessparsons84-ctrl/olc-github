@@ -9,7 +9,7 @@ Welcome to the companion repository for our OLC Accelerate 2026 session. This re
 ## What is included
 
 - `accordion builder.html` — the interactive webpage you will fork, edit, and embed into your LMS
-- `index.html` — the workshop landing page
+- `index.html` —  workshop landing page
 - [Workshop Example Site](https://canvaslite.instructure.com/courses/23801) 
 
 ## Start here
@@ -21,12 +21,11 @@ Welcome to the companion repository for our OLC Accelerate 2026 session. This re
 
 1. Select **Fork** near the upper-right corner of this repository.
 2. Create the fork in your GitHub account. This gives you a safe personal copy.
-3. From your fork's main repository page, press the period key (`.`) to open the browser editor.
-4. Open `README.md` and practice making an edit.
-5. Select **Commit & Push** and write a short description of the change you made.
-6. Return to GitHub and open **Settings → Pages**.
-7. Publish from the `main` branch and the `/ (root)` folder.
-8. Copy your GitHub Pages URL and link to it or embed it in your LMS (see below).
+3. Open `README.md` and practice making an edit.
+4. Select **Commit & Push** and write a short description of the change you made.
+5. Return to GitHub and open **Settings → Pages**.
+6. Publish from the `main` branch and the `/ (root)` folder.
+7. Copy your GitHub Pages URL and link to it or embed it in your LMS (see below).
 
 You cannot damage the presenters' original repository by editing your fork.
 
